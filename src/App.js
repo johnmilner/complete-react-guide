@@ -25,7 +25,7 @@ class App extends Component {
     this.setState({ persons: [
       { name: 'Max', age: 28 },
       { name: event.target.value, age: 29 },
-      { name: 'Stephanie', age: 26 }
+      { name: 'Naya', age: 26 }
     ]
     });
   }
